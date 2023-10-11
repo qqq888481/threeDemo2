@@ -1,0 +1,48 @@
+{
+  "code": 200,
+  "msg": "查询成功",
+  "data": [
+    {
+      "coverage": 2094.17453384809,
+      "coverage percent": -0.194741966893874,
+      "cosystem_type": "灌丛",
+      "change_coverage": -0.759033901358521
+    },
+    {
+      "coverage": 389.004874446228,
+      "coverage percent": 0.0,
+      "cosystem_type": "草地",
+      "change_coverage": 0.0
+    },
+    {
+      "coverage": 28.0842543502643,
+      "coverage percent": 0.161681487469689,
+      "cosystem_type": "湿地",
+      "change_coverage": 0.759033901358464
+    },
+    {
+      "coverage": 470.221501891587,
+      "coverage percent": 0.210036756432375,
+      "cosystem_type": "农田",
+      "change_coverage": -10.6264746190191
+    },
+    {
+      "coverage": 3548.71399488602,
+      "coverage percent": 0.560882938302898,
+      "cosystem_type": "城镇",
+      "change_coverage": 11.765025471057
+    },
+    {
+      "coverage": 0.759033901358494,
+      "coverage percent": 0.0,
+      "cosystem_type": "荒漠",
+      "change_coverage": 0.0
+    },
+    {
+      "coverage": 23.1505339914341,
+      "coverage percent": 0.0,
+      "cosystem_type": "其他",
+      "change_coverage": 0.0
+    }
+  ]
+}
